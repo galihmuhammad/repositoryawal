@@ -1,0 +1,75 @@
+.container{
+	width: 90%;
+	margin: 0 auto;
+}
+
+.header{
+	text-align: center;
+	/*background-color: blue;*/
+}
+
+.jumbotron{
+    width: 100%;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    background-image: url(img/ocean.jpg);
+    font-size: 24px;
+    background-size: cover;
+    }
+
+.foto {
+      display: block;
+      margin: 0px auto;
+      text-align: center;
+      width: 400px;
+      height: 300px;
+}
+
+ .foto img{
+	width: 400px;
+	text-align: center;
+	position: relative;
+	left: 15px;
+	padding-top: 15px;
+	border-radius: 35px;
+}
+
+.datadiri p {
+	text-align: center;
+	position: relative;
+	font-size: 30px;
+	top: 15px;
+	/*background-color: red;*/
+}
+
+.deskripsi{
+	width: 50%px;
+	text-align: center;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	/*background-color: red;*/
+}
+
+.deskripsi h1{
+	font-size: 40px;
+	font-family: Arial;
+}
+
+.deskripsi p{
+	font-size: 20px;
+}
+
+.footer{
+	 min-height: 50px;
+    padding: 20px;
+    text-align: center;
+    font-color:red;
+    /*background-color: red;*/
+    font-size: 100px;
+}
+
+.footer .icon {
+	margin-right: 50px ;
+}
